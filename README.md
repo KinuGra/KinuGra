@@ -9,8 +9,8 @@
 
 # Activity
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-azure-nine-13.vercel.app/api/top-langs/?username=KinuGra&layout=compact&show_icons=true&theme=onedark&count_private=true" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-azure-nine-13.vercel.app/api?username=KinuGra&theme=onedark&show_icons=true&count_private=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-azure-nine-13.vercel.app/api/top-langs/?username=KinuGra&layout=compact&show_icons=true&theme=onedark&count_private=true&cache_seconds=60" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-azure-nine-13.vercel.app/api?username=KinuGra&theme=onedark&show_icons=true&count_private=true&cache_seconds=60" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KinuGra&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
