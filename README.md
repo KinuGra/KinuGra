@@ -16,6 +16,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KinuGra&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KinuGra&theme=dracula)](https://github.com/KinuGra)
+-->
+
+<!--
 **KinuGra/KinuGra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
