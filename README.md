@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 # Languages＆Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,py,java,ruby)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=react,svelte,next,nodejs,django,flask)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,vercel,supabase,mysql,sqlite,bots,nginx)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nodejs,express&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,ruby)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,django,docker,discord&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=aws,supabase,firebase,mysql,nginx)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,md&theme=light)](https://skillicons.dev)
 
 # Activity
 <p align="left"> 
@@ -13,7 +14,9 @@
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-azure-nine-13.vercel.app/api?username=KinuGra&theme=onedark&show_icons=true&count_private=true&cache_seconds=60" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KinuGra&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KinuGra&theme=algolia&card_width=550&card_height=250)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KinuGra&theme=onedark&column=3&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KinuGra&theme=dracula)](https://github.com/KinuGra)
