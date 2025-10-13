@@ -12,12 +12,12 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img height="150px" src="https://github-readme-stats-azure-nine-13.vercel.app/api?username=KinuGra&theme=onedark&show_icons=true&count_private=true&cache_seconds=60" />
+  <img src="https://github-readme-stats-azure-nine-13.vercel.app/api?username=KinuGra&theme=onedark&show_icons=true&count_private=true&cache_seconds=60" />
 </p>
 
 ### 💻 Most Used Languages
 <p align="center">
-  <img height="150px" src="https://github-readme-stats-azure-nine-13.vercel.app/api/top-langs/?username=KinuGra&layout=compact&show_icons=true&theme=onedark&count_private=true&cache_seconds=60" />
+  <img src="https://github-readme-stats-azure-nine-13.vercel.app/api/top-langs/?username=KinuGra&layout=compact&show_icons=true&theme=onedark&count_private=true&cache_seconds=60&langs_count=10&hide=html,css" />
 </p>
 
 ### 🔥 Streak Stats
