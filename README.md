@@ -17,7 +17,7 @@
 
 ### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-azure-nine-13.vercel.app/api/top-langs/?username=KinuGra&layout=compact&show_icons=true&theme=onedark&count_private=true&cache_seconds=60&langs_count=10&hide=html,css" />
+  <img src="https://github-readme-stats-azure-nine-13.vercel.app/api/top-langs/?username=KinuGra&layout=compact&show_icons=true&theme=onedark&count_private=true&cache_seconds=60&langs_count=10&hide=html,css,jupyter%20notebook" />
 </p>
 
 ### 🔥 Streak Stats
