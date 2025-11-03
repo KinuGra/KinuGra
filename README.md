@@ -27,16 +27,14 @@
 
 ---
 
-### 🏆 Trophies
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KinuGra&theme=onedark&no-frame=true&row=1&column=5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KinuGra&theme=onedark&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ffffff&area=true" />
 </p>
 
 ---
 
-<!-- Optional: Activity Graph -->
-<!--
+### 🏆 Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KinuGra&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KinuGra&theme=onedark&no-frame=true&row=1&column=5" />
 </p>
--->
