@@ -4,8 +4,25 @@
 ---
 
 ### 🛠️ Languages & Tools
+
+#### Application Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,vue,nodejs,express,py,fastapi,django,ruby,c,cpp,java,kotlin,docker,aws,supabase,firebase,mysql,dynamodb,nginx,linux,git,github,neovim" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,py,fastapi,django,flask,spring,ts,js,react,next,vue,svelte,tailwind,html,css,kotlin,ruby,discord,unity&perline=12" />
+</p>
+
+#### Infrastructure & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,terraform,aws,gcp,vercel,nginx,linux,mysql,postgres,sqlite,dynamodb,supabase,firebase,prisma&perline=12" />
+</p>
+
+#### Others
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java&perline=10" />
+</p>
+
+#### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vim,neovim,vscode,markdown,notion&perline=10" />
 </p>
 
 ---
