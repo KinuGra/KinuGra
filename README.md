@@ -42,6 +42,9 @@
   <img src="https://streak-stats.demolab.com/?user=KinuGra&theme=algolia&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500" alt="GitHub Streak" />
 </p>
 
+<!--
+TODO: セルフデプロイ版に置き換えたら復活させる
+
 ---
 
 ### 📈 Activity Graph
@@ -55,3 +58,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KinuGra&theme=onedark&no-frame=true&row=1&column=5" />
 </p>
+-->
